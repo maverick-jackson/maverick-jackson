@@ -13,11 +13,13 @@ I don't wait for developers. I build it, ship it, and iterate. Site-agnostic by 
 - Daily ops automation spanning CMMS, Power BI, GTA, and Outlook — saves 30–90 minutes of reporting work per day with retry logic, freshness guards, and confidence summaries
 - BDA compliance audit automation — cut monthly review from 1–2 hours to under 5 minutes
 - PM Checklist Hub replacing manual PDF workflows with portable, print-ready interactive checklists for peer-site distribution
+- RocketBrain — AI assistant system adapted for Code Puppy CLI users; in real users' hands with real feedback coming back
 
 **Under [ProtoNodeLabs](https://github.com/ProtoNodeLabs):**
 - Live client websites and internal tools — shipped and actively maintained
+- Full-featured timesheet and workforce management app covering time tracking, reporting, and operations management
+- ClaudeBrain — persistent AI knowledge vault built on markdown and Git that gives Claude long-term context across sessions and machines; shared as an open template
 - Hosted lead-response automation with lead scoring, follow-up sequencing, and configurable templates
-- RocketBrain — AI assistant system adapted for Code Puppy CLI users; in real users' hands with real feedback coming back
 
 ---
 

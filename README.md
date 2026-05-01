@@ -9,7 +9,7 @@ I don't wait for developers. I build it, ship it, and iterate. Site-agnostic by 
 ### What I've shipped
 
 **At the warehouse:**
-- PM planning platform with a rules engine and PySide6 GUI — fixed a scheduling bug that jumped planned output from 22 to 232 PMs per cycle. Built for multi-site deployment.
+- PM planning platform with a rules engine and PySide6 GUI, built site-agnostic for multi-site deployment
 - Daily ops automation spanning CMMS, Power BI, GTA, and Outlook — saves 30–90 minutes of reporting work per day with retry logic, freshness guards, and confidence summaries
 - BDA compliance audit automation — cut monthly review from 1–2 hours to under 5 minutes
 - PM Checklist Hub replacing manual PDF workflows with portable, print-ready interactive checklists for peer-site distribution
@@ -44,4 +44,3 @@ Most of my work lives in private repos here and under [ProtoNodeLabs](https://gi
 ---
 
 [LinkedIn](https://www.linkedin.com/in/maverick-jackson-a30851310) &nbsp;·&nbsp; [ProtoNodeLabs.com](https://protonodelabs.com)
-
